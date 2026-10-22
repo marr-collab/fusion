@@ -1,0 +1,9 @@
+RIGHTS AND PROVENANCE
+
+Creators of the original research manuscripts: R. Wade H. Marr and Joseph Adam Thiel. Contact: YooperSoulProductions@Gmail.com.
+
+The release's public reuse terms are those selected by its depositors in the Zenodo record, subject to file-specific and third-party notices. This index does not itself relicense historical files or third-party software. Retain the MathJax, Numba and llvmlite license and third-party notices included in the full archive. Original software without an explicit software license must not be assumed to be MIT merely because MIT was recommended in the production guide.
+
+The source manuscript versions and authorship remain unchanged. “Review edition” in a preserved manuscript identifies that document's editorial state; public release 1.0.0 identifies this containing deposit. No journal acceptance or independent device validation is asserted.
+
+The Issan–Citrin–Landreman–Tracey equilibrium paper is an external cited result. Argon's recognition, the upstream grammar and this program's independent calculations are separate provenance layers. Their external authors are not represented as endorsing or collaborating in this program. The supplied recapture records the original Argon interpretation retrospectively; a separate contemporaneous original transcript was not located in the capstone search.

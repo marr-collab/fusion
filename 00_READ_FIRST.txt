@@ -1,0 +1,19 @@
+CONSTRUCTED PLASMA ORGANIZATIONS — ADDRESS-FIRST FUSION POG
+R. Wade H. Marr and Joseph Adam Thiel · Public release 1.0.0
+https://doi.org/10.5281/zenodo.23523832
+
+START WITH 01_Fusion_at_the_Electromagnetic_Address.pdf.
+The central findings: current with pointwise zero summed mechanical spin; geometry selected with support; exact distribution-dependent fusion sources; reciprocal positive dynamics; phase-faithful progression and physical preparation; positive source succession.
+
+02–05 derive the physical and computational constructions.
+06 maps each newly available operation to its recognition, derivation and receipt.
+07 presents the discoveries and their design consequences.
+09 visualizes the countercirculating organization; 16 gives its equations and 17 its source.
+08 demonstrates phase-faithful frozen progression; extract 12 and run python reproduce.py.
+10 contains the current publications, exact mathematical masters, slides, notes and research entry points.
+11 supplies the same public corpus plus selected executable constructors, required inputs, receipts and checks; original manuscripts remain local-only. The Zenodo transport uses numbered parts: download all parts and 11_Reassemble_Archive.py, then run python 11_Reassemble_Archive.py. See 11_ARCHIVE_README.txt for exact part count and hashes.
+13–15 contain the release manifest, checksums and rights/provenance.
+
+Choose the Reading ZIP for reading, or the Full Research archive for reproduction; the Full archive already contains the Reading material. From its extracted root run python demos/run.py verify and python demos/run.py quick. The README supplies environment and constructor recipes.
+
+Each construction retains its model and resource conditions. The achieved operations are the ground for the prospective integrated source-renewed fusion return and useful-work composition.
